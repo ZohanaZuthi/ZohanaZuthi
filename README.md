@@ -1,17 +1,29 @@
 <h1 align="center">Hi 👋, I'm Nazifa Fairuz Zuthi</h1>
-<h3 align="center">A passionate ML/AI enthusiast from Bangladesh</h3>
+<h3 align="center">ML/AI Enthusiast | Passionate about Data Science & Innovation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zohanazuthi&label=Profile%20views&color=0e75b6&style=flat" alt="zohanazuthi" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zohanazuthi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zohanazuthi" alt="zohanazuthi" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🚀 About Me  
+- 🔭 Currently working on **[Generative AI](https://github.com/ZohanaZuthi/Generative_AI)**  
+- 🤖 Exploring advancements in **Machine Learning & AI**  
+- 🌱 Learning **JavaScript, CSS, and Deep Learning**  
+- 🎯 Passionate about **AI-driven solutions & research**  
 
-- 🔭 I’m currently working on [Generative AI](https://github.com/ZohanaZuthi/Generative_AI)
+---
 
-- 🌱 I’m currently learning **JavaScript,CSS and Deep Learning**
+### 🏆 Achievements & Interests  
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zohanazuthi&theme=algolia&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
+</p>
 
-- 👯 I’m looking to collaborate on [Image Recognition](https://github.com/ZohanaZuthi/Image_Recognition)
+---
+
 
 - 📫 How to reach me **nazifafairuzzuthi@gmail.com**
 
